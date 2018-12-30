@@ -82,6 +82,6 @@ test:
 #
 production:
   <<: *default
-  database: sstock
-  username: wongsanit
-  password: sstockpassword
+  database: d6s8tca8mb3c7t
+  username: mtqeplejsxypyq
+  password: 8a4777562a868ee0bb67463372d298e33f776c7aab631f358c98530837b95f85
