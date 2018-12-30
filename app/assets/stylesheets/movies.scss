@@ -4,6 +4,7 @@
   height: calc(100vh - 50px);
   overflow: scroll;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 
   .item{
     width: 230px;
