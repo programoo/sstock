@@ -1,0 +1,28 @@
+#movies-container{
+  display: flex;
+  width: 100%;
+  height: calc(100vh - 50px);
+  overflow: scroll;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+  .item{
+    width: 230px;
+    height: 360px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    font-size: 12px;
+
+    .icon{
+      height: 300px;
+      padding: 8px;
+    }
+    .imdb{
+      height: 10px;
+    }
+    .name{
+      height: 10px;
+    }
+  }
+
+}
